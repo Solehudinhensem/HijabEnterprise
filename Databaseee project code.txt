@@ -1,0 +1,328 @@
+Product
+Id: 999032
+Name: raya
+Type: shawl
+
+Id: 998401
+Name: Intan
+Type: Pinned
+
+Id: 998193
+Name: masturi
+Type: Shawl
+
+Id: 990183
+Name: Puteri
+Type: Pleated
+
+Id: 913130
+Name : Siti
+Type: Casual
+
+Promoter
+Id: (764563)
+Name: (Norasyikin Binti Rosli)
+Tel: (014-647-0948)
+
+Id: (745937)
+Name: (Nurul Hafizah Binti Abdullah
+Tel: (015-413-5134)
+
+Id: (748141)
+Name: (Siti Aminah Binti Ahmad
+Tel: (013-431-5352)
+
+Id¬: (814512)
+Name: (Norazlina Binti Ibrahim
+Tel: (018-512-5678)
+
+Id: (915842)
+Name: (Hajar Zara Binti Mohd Yusof)
+Tel: (018-584-9648)
+
+
+Manager 
+Id: (437656)
+Name: (Khalidah Binti Khairy)
+Tel: (012-457-9087)
+
+Id: (657469)
+Name: (Siti Zara Binti Nordin)
+Tel: (012-321-3182)
+
+Id: (756389)
+Name: (Norhafiza Binti Jale)
+Tel: (013-458-7594)
+
+Id: (420548)
+Name: (Aminah Binti Sufian)
+Tel: (014-584-9458)
+
+Id: (758172
+Name: (Norazlina Binti Nordin)
+Tel: (015-384-5389)
+
+
+Shop
+Address: No.12, Jalan Bunga, Melaka, 78000, Malaysia 
+Tel: 014-141-5123
+Name: Siti Hijab Store
+
+Address 123.Jalan Tun Perak,50450,Kuala Lumpur, Malaysia
+Tel: 012-142-1244
+Name: Kedai Tudung khalsum
+
+Address: 123, Jalan Raja Chulan, 50200, Kuala Lumpur, Malaysia
+Tel: 013-133-4134
+Name Kedai Tudung Mekar
+
+Address: 314,Jalan Taman Mahsuri, 50200, Kuala Lumpur, Malaysia
+Tel: 019-341-9563
+Name: Marissa Hijab Store
+
+Address: 10, Jalan Rasa Sayang, 10800, Pulau Pinang, Malaysia
+Tel: 012-144-0243
+Name: Kedai Tudung Kami
+
+
+Supplier
+Id: (756098)
+Name: (Muhammad Sufian Bin Ariffin)
+Tel: (013-475-9908)
+
+Id: (813571)
+Name: (Farah Liyana Binti Kamarul)
+Tel: (015-413-5788)
+
+Id: (151149)
+Name: (Aisya Fazira Binti Osman)
+Tel: (018-513-1533)
+
+Id: (813471)
+Name: (Muhammad Adin bin Kamil)
+Tel: (014-567-4953)
+
+Id: (932522)
+Name: (Faris Bin Jamal)
+Tel: (016-421-6784)
+
+
+Accountant
+Id: 241921
+Name: Norazura Binti Mat Zain
+Tel: 017-284-8191
+
+Id: 281731
+Name: Hana Aisyah Binti Mustafa
+Tel: 013-431-0958
+
+Id: 294301
+Name: Siti Sarah Binti Ismail
+Tel: 019-948-9383
+
+Id: 230490
+Name: Fara Nurain Binti Mohd Shahril
+Tel: 019-842-9028
+
+Id: 203942
+Name: Alia Raisya Binti Nasir
+Tel: 018-123-9430
+
+
+Logistic
+Id: 921451
+Name: Aqilah Maisarah binti Yusuf
+Tel: 014-144-1531
+
+Id: 913451
+Name: Amani Zahirah Binti Zainal
+Tel: 013-214-5753
+
+Id: 913412
+Name: Nisa Adriana Binti Aziz
+Tel: 013-124-1241
+
+Id: 913841
+Name: Nurin Zara Binti Halim
+Tel: 019-431-9573
+
+Id: 912358
+Name: Amira Syahirah Binti Rahim
+Tel: 019-311-5567
+
+
+Runner
+Id: (867483)
+Name: (Syarina Binti Khamis)
+Tel: (013-759-9394)
+
+Id: (185311)
+Name: (Hana Nadia Binti Hamid)
+Tel: (014-215-1531)
+
+Id: (891354)
+Name: (Yasmin Azalia Binti Mohd Rosli)
+Tel: (014-531-5678)
+
+Id: (912419)
+Name: (Aleesya Qaisara Binti Mohd Ali)
+Tel: (013-135-5673)
+
+Id: (813441)
+Name: (Sarah Farisya Binti Jamal)
+Tel: (015-134-1412)
+
+
+Tailor
+ID: 781374
+Name: Haziqah Rania Binti Mohd Hassan
+Tel: 014-950-2930
+
+Id: 731480
+Name: Eryna Zulaika Binti Mat Isa
+Tel: 013-940-0093
+
+Id: 783100
+Name: Izzati Aisyah Binti Mustafa
+Tel: 010-931-8319
+
+Id: 713940
+Name: Nureen Sofia Binti Ismail
+Tel: 019-930-0839
+
+Id: 763910
+Name: Fatin Aqilah Binti Rahman
+Tel: 017-413-0392
+
+
+
+Designer
+Id: (Nortasya Binti Khairul Amin)
+Name: (358675)
+Tel: (019-654-4911) 
+
+Id: (824311)
+Name: (Norliza Syuhada Binti Ahmad)
+Tel: (017-145-6789)
+
+Id: (915817)
+Name: (Siti Khadijah Binti Zulkifli)
+Tel: (011-435-6787)
+
+Id: (138571)
+Name: (Fatin Amira Binti Abdul Razak)
+Tel; (014-531-5678)
+
+Id: (824521)
+Name: (Iman Sofia Binti Mustafa)
+Tel: (015-533-6432)
+
+
+Website
+Link: www.SitiHijab.com.my
+Name: Siti Hijab
+Tel: 014-123-1248
+
+Link: www.TudungKhalsum.com.my
+Name Tudung Khalsum
+Tel: 019-132-4800
+
+Link: www.tudungmekar.com.my
+Name: tudung Mekar
+Tel: 013-143-0482
+
+Link: www.MarissaHijab.com.my
+Name Marissa Hijab 
+Tel: 018-413-4912
+
+Link: www.tudungkami.com.my
+Name: Tudung Kami
+Tel: 013-001-9810
+
+
+It
+Id: 931831
+Name: Eliza Qistina Binti Ismail
+Tel: 019-341-2143
+
+Id: 913414
+Name: Zara Irdina Binti Abdullah
+Tel: 011-928-9302
+
+ID: 914132
+Name: Safiyyah Adawiyyah Binti Yusuf
+Tel: 014-124-8103
+
+Id: 913481
+Name: Azlina Binti Mohd Zainal
+Tel: 012-421-9283
+
+Id: 984201
+Name: Ameera Humaira binti Ahmad
+Tel; 018-421-8410
+
+
+Stokist
+Id: 823952
+Name: Aina Aleesya Binti Iskandar
+Tel: 018-848-9330
+
+Id: 813430
+Name: Marissa Fazira Binti Zulkifli
+Tel: 019-839-0392
+
+Id: 813940
+Name: Mira Haniyah Binti Aziz
+Tel: 018-813-8391
+
+Id: 813402
+Name: Afiqah Sofia Binti Yusof
+Tel: 013-493-9130
+
+Id: 871349
+Name: Nurul Syahirah Binti Abdullah
+Tel: 012-043-9310
+
+
+Customer
+Id: 013491
+Name: Nurul Syuhada Binti Mohd Zain
+Tel: 019-029-2903
+
+Id: 829310
+Name: Hana Balqis Binti Iskandar
+Tel: 011-931-0930
+
+Id: 829013
+Name: Siti Maisarah Binti Roslan
+Tel: 014-819-0921
+
+Id: 913801
+Name: Aisyah Humairah Binti Abdul Razak
+Tel: 014-413-9134
+
+Id: 002391
+Name: Adlina Binti Mohd Sahar
+Tel: 013-938-0138
+
+
+Customer service
+Id: 013494
+Name: Nur Amanina binti Mohd Nasir
+Tel: 012-314-3415
+
+Id: 931041
+Name: Aina Marissa Binti Ahmad
+Tel: 013-413-9134
+
+Id: 013490
+Name: Elina Zara Binti Abdullah
+Tel: 013-513-9123
+
+Id; 012349
+Name: Hani Qaisara Binti Shahril
+Tel: 013-431-4280
+
+Id: 213033
+Name: Syifa Amani Binti Zainal
+Tel: 013-413-9148
